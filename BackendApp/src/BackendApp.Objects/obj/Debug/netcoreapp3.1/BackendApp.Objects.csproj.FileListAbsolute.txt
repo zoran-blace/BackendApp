@@ -1,0 +1,17 @@
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\BackendApp.Objects\bin\Debug\netcoreapp3.1\BackendApp.Objects.deps.json
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\BackendApp.Objects\bin\Debug\netcoreapp3.1\BackendApp.Objects.dll
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\BackendApp.Objects\bin\Debug\netcoreapp3.1\BackendApp.Objects.pdb
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\BackendApp.Objects\obj\Debug\netcoreapp3.1\BackendApp.Objects.AssemblyInfoInputs.cache
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\BackendApp.Objects\obj\Debug\netcoreapp3.1\BackendApp.Objects.AssemblyInfo.cs
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\BackendApp.Objects\obj\Debug\netcoreapp3.1\BackendApp.Objects.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\BackendApp.Objects\obj\Debug\netcoreapp3.1\BackendApp.Objects.dll
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\BackendApp.Objects\obj\Debug\netcoreapp3.1\BackendApp.Objects.pdb
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\src\BackendApp.Objects\bin\Debug\netcoreapp3.1\BackendApp.Objects.deps.json
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\src\BackendApp.Objects\bin\Debug\netcoreapp3.1\BackendApp.Objects.dll
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\src\BackendApp.Objects\bin\Debug\netcoreapp3.1\BackendApp.Objects.pdb
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\src\BackendApp.Objects\obj\Debug\netcoreapp3.1\BackendApp.Objects.AssemblyInfoInputs.cache
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\src\BackendApp.Objects\obj\Debug\netcoreapp3.1\BackendApp.Objects.AssemblyInfo.cs
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\src\BackendApp.Objects\obj\Debug\netcoreapp3.1\BackendApp.Objects.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\src\BackendApp.Objects\obj\Debug\netcoreapp3.1\BackendApp.Objects.dll
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\src\BackendApp.Objects\obj\Debug\netcoreapp3.1\BackendApp.Objects.pdb
+C:\Users\Marvin\Desktop\BILD TEST\TEMP\TEST\BackendApp\src\BackendApp.Objects\obj\Debug\netcoreapp3.1\BackendApp.Objects.csprojAssemblyReference.cache

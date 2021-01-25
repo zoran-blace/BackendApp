@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackendApp</name>
+    </assembly>
+    <members>
+        <member name="M:BackendApp.Controllers.DevicesController.GetDevice(System.Int32)">
+             <summary>
+             Gets a specific Device by it's <c>id</c>
+             </summary>
+             <remarks>
+             Action for getting specific Device and it's properties
+             <para>Sample request:</para>
+            
+                 GET /api/Device/GetDevice/{id}
+                 {
+                    "id": "1"
+                 }
+            
+             <para>Sample request would get all info about Device with specified <c>id</c> value </para>
+             </remarks>
+             <param name="input">The input used to get specific Device</param>
+             <returns>Device info</returns>
+             <response code="200">Returns Device info</response>
+             <response code="401">If the user is not authenticated</response>
+             <response code="500">If there was an internal server error</response>
+        </member>
+        <member name="M:BackendApp.Controllers.DevicesController.GetAllDevices(System.Int32)">
+            <summary>
+            Gets all Devices
+            </summary>
+        </member>
+        <member name="M:BackendApp.Controllers.DevicesController.AddDevice(BackendApp.Entities.DeviceEntity)">
+            <summary>
+            Adding new Device
+            </summary>
+        </member>
+        <member name="M:BackendApp.Controllers.DevicesController.EditDevice(BackendApp.Entities.DeviceEntity)">
+            <summary>
+            Editing Device specified by it's <c>id</c>
+            </summary>
+        </member>
+        <member name="M:BackendApp.Controllers.DevicesController.DeleteDevice(System.Int32)">
+            <summary>
+            Deleting Device specified by it's <c>id</c>
+            </summary>
+        </member>
+        <member name="M:BackendApp.Controllers.DeviceTypesController.GetDeviceType(System.Int32)">
+             <summary>
+             Gets a specific Device Type by it's <c>id</c>
+             </summary>
+             <remarks>
+             Action for getting specific Device Type and it's properties
+             <para>Sample request:</para>
+            
+                 GET /api/Device/GetDeviceType/{id}
+                 {
+                    "id": "1"
+                 }
+            
+             <para>Sample request would get all info about Device Type with specified <c>id</c> value </para>
+             </remarks>
+             <param name="input">The input used to get specific Device Type</param>
+             <returns>Device Type info</returns>
+             <response code="200">Returns Device Type info</response>
+             <response code="401">If the user is not authenticated</response>
+             <response code="500">If there was an internal server error</response>
+        </member>
+        <member name="M:BackendApp.Controllers.DeviceTypesController.GetAllDeviceTypes">
+            <summary>
+            Gets all Device Types
+            </summary>
+        </member>
+        <member name="M:BackendApp.Controllers.DeviceTypesController.AddDeviceType(BackendApp.Entities.DeviceTypeEntity)">
+            <summary>
+            Adding new Device Type
+            </summary>
+        </member>
+        <member name="M:BackendApp.Controllers.DeviceTypesController.EditDeviceType(BackendApp.Entities.DeviceTypeEntity)">
+            <summary>
+            Editing new Device specified by it's <c>id</c>
+            </summary>
+        </member>
+        <member name="M:BackendApp.Controllers.DeviceTypesController.DeleteDeviceType(System.Int32)">
+            <summary>
+            Deleting Device Type specified by it's <c>id</c>
+            </summary>
+        </member>
+    </members>
+</doc>
