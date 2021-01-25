@@ -1,3 +1,5 @@
+Proces prvog pokretanja projekta je malo 'neobičan' iz razloga jer sam naišao na neke probleme sa kompatibilnošću Microsoftovih frmaeworka koje nisam znao da zaobiđem, za sad :-) 
+
 Za otvaranje i pokretanje projekta su potrebne najnovije verzije sljedećih programa: Visual Studio i SQL Server (Express)
 
 U Solutionu se nalaze tri projekta: 'BackendApp', 'BackendApp.DAL' i 'BackendApp.test'
