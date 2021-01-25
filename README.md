@@ -14,3 +14,5 @@ Prije prvog pokretanja aplikacije potrebno je uraditi sljedeće:
 6. Izvršiti komandu 'Update-Database'
 7. Podesiti projekat 'src -> BackendApp' kao Start Up Project   
 8. Pokrenuti aplikaciju
+
+U slučaju nekih problema sa svim ovim, na mail sam proslijedio sql skriptu koja kreira i popunjava bazu testnim podacima i mijenja sve gore navedene korake
